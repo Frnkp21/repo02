@@ -84,3 +84,28 @@
 
 **comando git commmit**
 
+*El comando git commit es para pasar de el saging area al repositorio  dentro de las comillas ponemos el mensaje de los cambios que hemos hecho.*
+
+![✖️ERROR✖️](./imagenes/14.png)
+
+**comando git log**
+
+*Este comando es para ver el log de los commits que se han realizado y la persona que los ha realizado con su informacion.*
+
+![✖️ERROR✖️](./imagenes/15.png)
+
+**comando git push**
+
+*Este comando nos permite subir los cambios al repositorio remoto.*
+
+![✖️ERROR✖️](./imagenes/16.png)
+
+**comando git pull**
+
+*Este comando nos permite bajar los archivos del repositorio remoto al local*
+
+![✖️ERROR✖️](./imagenes/17.png)
+
+**comando git clone**
+
+*Este comando nos permite directamente clonar un repositorio es una manera mas rapida*
