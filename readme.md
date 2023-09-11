@@ -67,15 +67,20 @@
 
 **comando git status**
 
-*Esto es para ver el estado de los archivos que tenemos en nuestro directorio con git.
+*Esto es para ver el estado de los archivos que tenemos en nuestro directorio con git.*
 
-*En este caso hemos modificado y agregado un archivo al directorio, cuando agregamos un archivo nuevo nos saldra en color rojo y pondra untracked files.
+*En este caso hemos modificado y agregado un archivo al directorio, cuando agregamos un archivo nuevo nos saldra en color rojo y pondra untracked files.*
 ![✖️ERROR✖️](./imagenes/11.png)
 
-  *Para subir los archivos tendremos que hacer un git add y despues cuando hagamos el git status nos saldra ne verde significa que los cambios estan commited
+**comando git add**
+
+  *Para subir los archivos tendremos que hacer un git add y despues cuando hagamos el git status nos saldra ne verde significa que los cambios estan commited*
 
 ![✖️ERROR✖️](./imagenes/12.png)
 
-*Para borrar un archivo que no queremos que este committed tendremos que poner el git restore --staged <file\> *
+*Para borrar un archivo que no queremos que este committed tendremos que poner el git restore --staged <file\>*
 
 ![✖️ERROR✖️](./imagenes/12.png)
+
+**comando git commmit**
+
